@@ -41,7 +41,6 @@ int main() {
     fastscan(k);
  
     int out = 0;
- 
     int lastNum;
     for(int i = 0; i < k; i++){
         fastscan(lastNum);
