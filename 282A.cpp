@@ -2,7 +2,6 @@
 #include <list>
 #include <vector>
 using namespace std;
-
  
 void fastscan(int &number)
 {
@@ -59,7 +58,7 @@ int main() {
             initInt--;
         }
     }
- 
+
     cout << initInt << endl;
  
     return 0;
